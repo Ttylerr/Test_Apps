@@ -1,1 +1,1 @@
-hello from the new local repo
+hello from the new remote repo
